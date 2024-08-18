@@ -21,7 +21,7 @@ I'm a passionate software developer with experience in web development, and data
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnaohuv22&show_icons=true&theme=dracula)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnaohuv22)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnaohuv22&theme=dracula)
 
 ## Projects
 Updating
