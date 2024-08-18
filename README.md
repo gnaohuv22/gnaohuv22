@@ -27,7 +27,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnaohuv22&theme=dracula)
 
 ## Projects
-[Minesweeper with HTML, CSS, JavaScript](gnaohuv22.github.io) - Currently not working
+[Minesweeper with HTML, CSS, JavaScript](https://gnaohuv22.github.io/) - Currently not working
 
 ## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/v%C5%A9-ho%C3%A0ng-585878149/)
