@@ -27,6 +27,6 @@ I'm a passionate software developer with experience in web development, and data
 Updating
 
 ## Connect with Me
-![LinkedIn](https://www.linkedin.com/in/v%C5%A9-ho%C3%A0ng-585878149/)
-![Facebook](https://www.facebook.com/test1fy/)
-![Instagram](https://www.instagram.com/_testify._/)
+[LinkedIn](https://www.linkedin.com/in/v%C5%A9-ho%C3%A0ng-585878149/)
+[Facebook](https://www.facebook.com/test1fy/)
+[Instagram](https://www.instagram.com/_testify._/)
