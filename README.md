@@ -7,9 +7,9 @@ I'm a passionate software developer with experience in web development, and data
 
 - 🔭 I’m currently working on [Learning]
 - 🌱 I’m currently learning [ASP.NET, EntityFramework Core]
-- 💬 Ask me about [Your Expertise]
+- 💬 Ask me about web development, .NET, C#, Razor Pages, SignalR, Entity Framework, or anything related to software development!
 - 📫 How to reach me: mailto:hoangmeo1905@gmail.com
-- ⚡ Fun fact: "I am lazy but quite meticulous."
+- ⚡ Fun fact: I am lazy but quite meticulous.
 
 ## Skills
 - **Languages**: C#, JavaScript, HTML, CSS, C++, Java, SQL
