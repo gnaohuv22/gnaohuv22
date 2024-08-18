@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Hoang Vu (or Testify, or something else I will like after...) 👋
 
-<!--
-**gnaohuv22/gnaohuv22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!Profile Views
 
-Here are some ideas to get you started:
+## About Me
+I'm a passionate software developer with experience in web development, and database management. I love learning new technologies and solving challenging problems. I was a member of my school’s national informatics team for 2 years, and I am currently a final-year student at FPT University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Learning]
+- 🌱 I’m currently learning [ASP.NET, EntityFramework Core]
+- 💬 Ask me about [Your Expertise]
+- 📫 How to reach me: mailto:hoangmeo1905@gmail.com
+- ⚡ Fun fact: "I am lazy but quite meticulous."
+
+## Skills
+- **Languages**: C#, JavaScript, HTML, CSS, C++, Java, SQL
+- **Frameworks**: .NET, Razor Pages, SignalR, Entity Framework
+- **Tools**: Git, Docker, Visual Studio, VS Code, Apache NetBeans,...
+- **Game Development**: Unity
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnaohuv22&show_icons=true&theme=dracula)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnaohuv22)
+
+## Projects
+Updating
+
+## Connect with Me
+![LinkedIn](https://www.linkedin.com/in/v%C5%A9-ho%C3%A0ng-585878149/)
+![Facebook](https://www.facebook.com/test1fy/)
+![Instagram](https://www.instagram.com/_testify._/)
