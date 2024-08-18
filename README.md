@@ -3,7 +3,10 @@
 !Profile Views
 
 ## About Me
-I'm a passionate software developer with experience in web development, and database management. I love learning new technologies and solving challenging problems. I was a member of my school’s national informatics team for 2 years, and I am currently a final-year student at FPT University.
+- I'm a passionate software developer with experience in web development, and database management. I love learning new technologies and solving challenging problems.
+- I was a member of my school’s national informatics team for 2 years.
+- I am currently a final-year student at FPT University.
+- Former 11th gen of JS Club
 
 - 🔭 I’m currently working on [Learning]
 - 🌱 I’m currently learning [ASP.NET, EntityFramework Core]
@@ -24,7 +27,7 @@ I'm a passionate software developer with experience in web development, and data
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnaohuv22&theme=dracula)
 
 ## Projects
-Updating
+[Minesweeper with HTML, CSS, JavaScript](gnaohuv22.github.io) - Currently not working
 
 ## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/v%C5%A9-ho%C3%A0ng-585878149/)
