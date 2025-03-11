@@ -28,8 +28,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnaohuv22&theme=dracula)
 
 ## Projects
-[Minesweeper with HTML, CSS, JavaScript](https://gnaohuv22.github.io/) - Won't update \n
-[Capstone Project's UX/UI](https://github.com/gnaohuv22/Capstone_FE) - Progress 35%...
+- [Minesweeper with HTML, CSS, JavaScript](https://gnaohuv22.github.io/) - Won't update.
+- [Capstone Project's UX/UI](https://github.com/gnaohuv22/Capstone_FE) - Progress 35%...
 
 ## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/v%C5%A9-ho%C3%A0ng-585878149/) |
