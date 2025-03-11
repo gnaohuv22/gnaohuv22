@@ -1,23 +1,24 @@
-# Hi there, I'm Hoang Vu (or Testify, or something else I will like after...) 👋
+# Hi there, I'm Hoang Vu (or Testify) 👋
 
 !Profile Views
 
 ## About Me
-- I'm a passionate software developer with experience in web development, and database management. I love learning new technologies and solving challenging problems.
-- I was a member of my school’s national informatics team for 2 years.
-- I am currently a final-year student at FPT University.
+- I'm a passionate software developer with experience in web development, and software development. I love learning new technologies and solving challenging problems.
+- I was a member of my school’s national informatics team for 2 years, which using C++ for competitive programming.
+- I am currently a final-year student at FPT University, and working for capstone project.
 - Former 11th gen of JS Club
 
-- 🔭 I’m currently working on [Learning]
-- 🌱 I’m currently learning [ASP.NET, EntityFramework Core]
-- 💬 Ask me about web development, .NET, C#, Razor Pages, SignalR, Entity Framework, or anything related to software development!
+- 🔭 I’m currently working on my Capstone Project as a Frontend Developer
+- 🌱 I’m currently learning Next.Js/React
+- 💬 We could talk about anything in the world, not just in software/web development.
+- ❤️ I love to make my UI work smoothly, not about the requirements, just hobby~
 - 📫 How to reach me: mailto:hoangmeo1905@gmail.com
-- ⚡ Fun fact: I am lazy but quite meticulous.
+- ⚡ Fun fact: I'd love to work alone because I rarely meet acceptable teammates. I also could learn anything new (frameworks, languages, tools...) if necessary.
 
 ## Skills
-- **Languages**: C#, JavaScript, HTML, CSS, C++, Java, SQL
-- **Frameworks**: .NET, Razor Pages, SignalR, Entity Framework
-- **Tools**: Git, Docker, Visual Studio, VS Code, Apache NetBeans,...
+- **Languages**: C#, JavaScript, HTML, CSS, C++, Java, SQL, TypeScript
+- **Frameworks**: .NET, Razor Pages, SignalR, Entity Framework, React, Next.js
+- **Tools**: Git, Docker, Visual Studio, VS Code, **Cursor (current)**, Apache NetBeans,...
 - **Game Development**: Unity
 
 ## GitHub Stats
@@ -27,9 +28,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnaohuv22&theme=dracula)
 
 ## Projects
-[Minesweeper with HTML, CSS, JavaScript](https://gnaohuv22.github.io/) - Currently not working
+[Minesweeper with HTML, CSS, JavaScript](https://gnaohuv22.github.io/) - Won't update
+[Capstone Project's UX/UI](https://github.com/gnaohuv22/Capstone_FE) - Progress 35%...
 
 ## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/v%C5%A9-ho%C3%A0ng-585878149/)
-[Facebook](https://www.facebook.com/test1fy/)
-[Instagram](https://www.instagram.com/_testify._/)
+[LinkedIn](https://www.linkedin.com/in/v%C5%A9-ho%C3%A0ng-585878149/) |
+[Facebook](https://www.facebook.com/testify.zero/) |
+[Instagram](https://www.instagram.com/testify.firmament/)
