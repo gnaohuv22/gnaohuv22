@@ -1,7 +1,5 @@
 # Hi there, I'm Hoang Vu (or Testify) 👋
 
-!Profile Views
-
 ## About Me
 - I'm a passionate software developer with experience in web development, and software development. I love learning new technologies and solving challenging problems.
 - I was a member of my school’s national informatics team for 2 years, which using C++ for competitive programming.
