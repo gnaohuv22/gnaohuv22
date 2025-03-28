@@ -27,7 +27,7 @@
 
 ## Projects
 - [Minesweeper with HTML, CSS, JavaScript](https://gnaohuv22.github.io/) - Won't update.
-- [Capstone Project's UX/UI](https://github.com/gnaohuv22/Capstone_FE) - Progress 35%...
+- [Capstone Project's UX/UI](https://github.com/indexy194/SEP490_G42) - Progress 35%...
 
 ## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/v%C5%A9-ho%C3%A0ng-585878149/) |
