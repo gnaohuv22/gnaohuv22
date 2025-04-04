@@ -72,6 +72,10 @@
   - Progress: 35%
   - Role: Frontend Developer
   - Technologies: React, Next.js
+    
+- 📄 **[Git Commit Helper](https://github.com/gnaohuv22/GitCommitHelper)**
+  - Write spontaneously using Windows PowerShell
+  - Will update if the light is on
 
 ## 📚 Currently Learning
 
