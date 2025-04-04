@@ -68,14 +68,38 @@
   - A simple minesweeper game built with basic web technologies
   - Won't update
 
-- 🎓 **[Capstone Project's UX/UI](https://github.com/indexy194/SEP490_G42)**
-  - Progress: 35%
+- 🎓 **[Capstone Project's UX/UI](https://github.com/indexy194/SEP490_G42)** - private
+  - Progress: 75% (in my own)
   - Role: Frontend Developer
   - Technologies: React, Next.js
     
 - 📄 **[Git Commit Helper](https://github.com/gnaohuv22/GitCommitHelper)**
   - Write spontaneously using Windows PowerShell
   - Will update if the light is on
+
+- 🍀 **[Shiori 祉栞](https://github.com/gnaohuv22/shiori-project)**
+  - Portfolio for Shiori 祉栞, as a practice
+  - Technology: Next.js
+ 
+- 🐦 **[Flappy Bird Clone](https://github.com/gnaohuv22/FlappyBirdClone)**
+  - Technologies: Unity, C#
+  - For practice
+
+- ⚕️ **[MediCare](https://github.com/gnaohuv22/MediCare)**
+  - SWP391 project
+  - Technologies: Java, Bootstrap 5, SQL Server...
+  - Roles: Frontend Developer, Database Management
+ 
+- 📖 **[My Dictionary](https://github.com/gnaohuv22/MyDictionary)**
+  - Roles: All rounders
+  - Technologies: Java, SQL Server, high mood for vanilla HTML, CSS, JS to make transitions, animations...
+ 
+- 📶 **[Basic TCP Chat App](https://github.com/gnaohuv22/TCPChatApp)**
+  - Technologies: WPF, EF,...
+ 
+- 🏷️ **[Basic Event Management](https://github.com/gnaohuv22/EventManagement)**
+  - Technologies: EF, SignalR, Razor Pages...
+  
 
 ## 📚 Currently Learning
 
