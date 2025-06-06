@@ -68,25 +68,27 @@
 
 ### 🌟 Featured
 
-- 🎓 **[Capstone Project's UX/UI](https://github.com/indexy194/SEP490_G42)** - private
-  - Progress: 75% (in my own)
-  - Role: Frontend Developer
+- 🎓 **[Capstone Project's UX/UI](https://github.com/gnaohuv22/OTLS_Frontend)**
+  - Role: All-rounders
   - Technologies: React, Next.js
-
-- 🍀 **[Shiori 祉栞](https://github.com/gnaohuv22/shiori-project)**
-  - Portfolio for Shiori 祉栞, as a practice
-  - Technology: Next.js
-
-### 🏫 University Projects
 
 - ⚕️ **[MediCare](https://github.com/gnaohuv22/MediCare)**
   - SWP391 project
   - Technologies: Java, Bootstrap 5, SQL Server
   - Roles: Frontend Developer, Database Management
+
+
+
+### 🏫 Side Projects
+
+- 🍀 **[Shiori 祉栞](https://github.com/gnaohuv22/shiori-project)**
+  - Portfolio for Shiori 祉栞, as a practice
+  - Technology: Next.js
  
 - 📖 **[My Dictionary](https://github.com/gnaohuv22/MyDictionary)** 
   - Role: All-rounder
   - Technologies: Java, SQL Server, vanilla HTML/CSS/JS with custom animations
+
 
 ### 🛠️ Tools & Practice
 
@@ -105,6 +107,10 @@
 
 - 💣 **[Minesweeper](https://gnaohuv22.github.io/)**
   - Basic web technologies
+
+- 📆 **[Simple Holiday Management API](https://github.com/gnaohuv22/holiday-api)**
+  - Basic Holiday Management API, applied to manage the teaching & learning schedule in OTLS project.
+  - Technologies: Next.js, Firebase
 
 ## 📚 Currently Learning
 
