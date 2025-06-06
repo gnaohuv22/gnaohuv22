@@ -6,23 +6,23 @@
   [![GitHub followers](https://img.shields.io/github/followers/gnaohuv22?style=social)](https://github.com/gnaohuv22)
 </div>
 
-> *“In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule.”* - Friedrich Nietzsche
+> *"Es ist immer etwas Wahnsinn in der Liebe. Es ist aber auch immer etwas Vernunft im Wahnsinn."* - Friedrich Nietzsche
 
 ## 🧑‍💻 About Me
 
 **🚀 Final-year Web Developer | Next.js | ASP.NET | UI Enthusiast**
 
 - 🔥 Passionate developer with a focus on web development and smooth user interfaces
-- 🏆 Former member of the national informatics team – yes, I used to survive on C++ and adrenaline - **2 times.**
+- 🏆 Former member of my school's national informatics team for 2 years, using C++ for competitive programming
 - 🎓 Final-year student at FPT University, currently working on my Capstone Project
 - 🌱 Former 11th gen of JS Club
 
 - 🔭 Working as a Frontend Developer on my Capstone Project
 - 📚 Learning Next.js/React ecosystem
 - 💬 Open to conversations about anything, not just tech
-- ❤️ Enjoy making UIs buttery smooth – not just to meet specs, but because pixels matter.
+- ❤️ I enjoy crafting smooth UIs – not just to meet requirements, but because I love the feel
 - 📫 Reach me: <hoangmeo1905@gmail.com>
-- 🔥 **Unpopular opinion:** *I work best solo. Teamwork? Great in theory, chaos in practice (prove me wrong).*
+- 🔥 **Unpopular opinion:** I prefer building solo because teamwork often slows me down. I can learn any new tech when needed.
 
 ## 🛠️ Skills
 
@@ -68,25 +68,27 @@
 
 ### 🌟 Featured
 
-- 🎓 **[Capstone Project's UX/UI](https://github.com/indexy194/SEP490_G42)** - private
-  - Progress: 75% (in my own)
-  - Role: Frontend Developer
+- 🎓 **[Capstone Project's UX/UI](https://github.com/gnaohuv22/OTLS_Frontend)**
+  - Role: All-rounders
   - Technologies: React, Next.js
-
-- 🍀 **[Shiori 祉栞](https://github.com/gnaohuv22/shiori-project)**
-  - Portfolio for Shiori 祉栞, as a practice
-  - Technology: Next.js
-
-### 🏫 University Projects
 
 - ⚕️ **[MediCare](https://github.com/gnaohuv22/MediCare)**
   - SWP391 project
   - Technologies: Java, Bootstrap 5, SQL Server
   - Roles: Frontend Developer, Database Management
+
+
+
+### 🏫 Side Projects
+
+- 🍀 **[Shiori 祉栞](https://github.com/gnaohuv22/shiori-project)**
+  - Portfolio for Shiori 祉栞, as a practice
+  - Technology: Next.js
  
 - 📖 **[My Dictionary](https://github.com/gnaohuv22/MyDictionary)** 
   - Role: All-rounder
   - Technologies: Java, SQL Server, vanilla HTML/CSS/JS with custom animations
+
 
 ### 🛠️ Tools & Practice
 
@@ -106,8 +108,12 @@
 - 💣 **[Minesweeper](https://gnaohuv22.github.io/)**
   - Basic web technologies
 
+- 📆 **[Simple Holiday Management API](https://github.com/gnaohuv22/holiday-api)**
+  - Basic Holiday Management API, applied to manage the teaching & learning schedule in OTLS project.
+  - Technologies: Next.js, Firebase
+
 ## 📚 Currently Learning
-- 📶 PostgreSQL
+
 - 🌐 Advanced Next.js
 - 📱 React Native
 - 🧪 Testing (Jest, React Testing Library)
@@ -126,7 +132,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gnaohuv22&color=blue" alt="Profile Views" />
 </div>
-
-## 🧨 Scroll down here? Hot Take
-
-> *Working in a group project feels like carrying a fridge up the stairs – possible, painful, and someone always lets go.*
