@@ -69,7 +69,7 @@
 ### 🌟 Featured
 
 - 🎓 **[Capstone Project's UX/UI](https://github.com/gnaohuv22/OTLS_Frontend)**
-  - Role: All-rounders
+  - Role: Fullstacks
   - Technologies: React, Next.js
 
 - ⚕️ **[MediCare](https://github.com/gnaohuv22/MediCare)**
@@ -86,7 +86,7 @@
   - Technology: Next.js
  
 - 📖 **[My Dictionary](https://github.com/gnaohuv22/MyDictionary)** 
-  - Role: All-rounder
+  - Role: Fullstacks
   - Technologies: Java, SQL Server, vanilla HTML/CSS/JS with custom animations
 
 
