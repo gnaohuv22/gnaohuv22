@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-**🚀 Web Developer | Next.js | ASP.NET | UI Enthusiast**
+**🚀 Web Developer | Java/Spring | Angular | UI Enthusiast**
 
 - 🔥 Passionate developer with a focus on web development and smooth user interfaces
 - 🏆 Former member of my school's national informatics team for 2 years, using C++ for competitive programming
