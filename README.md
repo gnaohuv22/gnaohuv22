@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Hoang Vu (or Testify)
+# 👋 Hi there
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer;Web+Developer;Problem+Solver" alt="Typing SVG" />
@@ -10,15 +10,15 @@
 
 ## 🧑‍💻 About Me
 
-**🚀 Final-year Web Developer | Next.js | ASP.NET | UI Enthusiast**
+**🚀 Web Developer | Java/Spring | Angular | UI Enthusiast**
 
 - 🔥 Passionate developer with a focus on web development and smooth user interfaces
 - 🏆 Former member of my school's national informatics team for 2 years, using C++ for competitive programming
-- 🎓 Final-year student at FPT University, currently working on my Capstone Project
-- 🌱 Former 11th gen of JS Club
+- 🎓 Bachelor student at FPT University
+- 🌱 11th gen of JS Club
 
-- 🔭 Working as a Frontend Developer on my Capstone Project
-- 📚 Learning Next.js/React ecosystem
+- 🔭 Working as a Fullstack Developer
+- 📚 Learning Japanese, AI stuffs
 - 💬 Open to conversations about anything, not just tech
 - ❤️ I enjoy crafting smooth UIs – not just to meet requirements, but because I love the feel
 - 📫 Reach me: <hoangmeo1905@gmail.com>
@@ -69,7 +69,7 @@
 ### 🌟 Featured
 
 - 🎓 **[Capstone Project's UX/UI](https://github.com/gnaohuv22/OTLS_Frontend)**
-  - Role: All-rounders
+  - Role: Fullstacks
   - Technologies: React, Next.js
 
 - ⚕️ **[MediCare](https://github.com/gnaohuv22/MediCare)**
@@ -86,7 +86,7 @@
   - Technology: Next.js
  
 - 📖 **[My Dictionary](https://github.com/gnaohuv22/MyDictionary)** 
-  - Role: All-rounder
+  - Role: Fullstacks
   - Technologies: Java, SQL Server, vanilla HTML/CSS/JS with custom animations
 
 
